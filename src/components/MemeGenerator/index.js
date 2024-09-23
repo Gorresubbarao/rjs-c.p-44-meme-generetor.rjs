@@ -49,6 +49,7 @@ const fontSizesOptionsList = [
   },
 ]
 // Write your code here
+// just addedd this only
 
 class MemeGenerator extends Component {
   state = {
